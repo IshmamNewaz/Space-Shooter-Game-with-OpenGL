@@ -1,7 +1,7 @@
 # Welcome to the Space-Shooter-Game-with-OpenGL
-This is a simple Space Shooter game made with OpenGL GLUT Library
+This is a simple Space Shooter game made with OpenGL GLUT Library.
 All designing and coding was done in C/C++
-Follow the instruction in README.md for setting up.
+### Follow the instruction in README.md for setting up.
 ## Important settings
 1. Follow Instructions in a .docx file inside the folder "CodeBlocksOpenGLSetup" folder
 After this do the following:
