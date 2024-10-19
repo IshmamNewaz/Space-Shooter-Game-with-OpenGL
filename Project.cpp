@@ -128,7 +128,6 @@ void update(int value)
     Particle-=Particle_Speed;
 
 
-
 	glutPostRedisplay(); //Notify GLUT that the display has changed
 	glutTimerFunc(01, update, 0);
 }
